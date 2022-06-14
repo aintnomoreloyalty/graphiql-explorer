@@ -1,16 +1,17 @@
 {
   "name": "graphiql-explorer",
   "version": "0.8.0",
-  "homepage": "https://github.com/onegraph/graphiql-explorer",
+  "homepage": "https://github.com/aintnomoreloyalty/graphiql-explorer.git",
   "bugs": {
-    "url": "https://github.com/onegraph/graphiql-explorer/issues"
+    "url": "https://github.com/aintnomoreloyalty/graphiql-explorer/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/onegraph/graphiql-explorer.git"
+    "url": "http://github.com/aintnomoreloyalty/graphiql-explorer.git"
   },
   "license": "MIT",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist",
     "graphiqlExplorer.js",
